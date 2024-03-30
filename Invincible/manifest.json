@@ -1,0 +1,10 @@
+{
+  "Name": "Invincible",
+  "Author": "zchengw",
+  "Version": "1.0.0",
+  "Description": "A simple mod to make you invincible.",
+  "UniqueID": "zchengw.Invincible",
+  "EntryDll": "Invincible.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
